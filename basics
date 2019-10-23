@@ -1,0 +1,8 @@
+//Add two floats
+void main()
+{ 
+  float a,b;
+  cin>>a;
+  cin>>b;
+  cout<<a+b;
+}
